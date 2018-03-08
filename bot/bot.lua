@@ -214,6 +214,7 @@ function create_config( )
       "help",
       "id",
       "plugins",
+	"",info		
       },
     sudo_users = {383483918,0},
     disabled_channels = {},
